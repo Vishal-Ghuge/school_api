@@ -10,5 +10,37 @@
       "mobile": 7776852717,
       "password": "k@dec2018"
     }
+  ],
+  "school": [
+    {
+      "id": 1,
+      "name": "venkateshwara public school",
+      "registrationNumber":1211,
+      "address":"yeli phata,hingoli"
+    },
+    {
+      "id": 2,
+      "name": "trimurti school",
+      "registrationNumber":14111,
+      "address":"hadapsar,pune"
+    },
+    {
+      "id": 3,
+      "name": "abm english school",
+      "registrationNumber":2341,
+      "address":"bangar nagar,hingoli"
+    },
+    {
+      "id": 4,
+      "name": "khakibaba english school",
+      "registrationNumber":13241,
+      "address":"ganpati chouk,hingoli"
+    },
+    {
+      "id": 5,
+      "name": "primary school",
+      "registrationNumber":124431,
+      "address":"bhavani road ,yedud"
+    }
   ]
 }
