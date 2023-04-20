@@ -11,36 +11,68 @@
       "password": "k@dec2018"
     }
   ],
+  "society": [
+    {
+      "id": 1,
+      "name": "ch.shivaji education society",
+      "registrationNumber": 12151,
+      "address": "azam colony,hingoli"
+    },
+    {
+      "id": 2,
+      "name": "Adarsh education society",
+      "registrationNumber": 14123,
+      "address": "railway station road,hingoli"
+    },
+    {
+      "id": 3,
+      "name": "Deccan education society",
+      "registrationNumber": 23642,
+      "address": "shivajinagar ,pune"
+    },
+    {
+      "id": 4,
+      "name": "Modern eduction society",
+      "registrationNumber": 13241,
+      "address": "modern colony ,pune"
+    },
+    {
+      "id": 5,
+      "name": "oxford business eduction society",
+      "registrationNumber": 12441,
+      "address": "son francisco,unitade state"
+    }
+  ],
   "school": [
     {
       "id": 1,
       "name": "venkateshwara public school",
-      "registrationNumber":1211,
-      "address":"yeli phata,hingoli"
+      "registrationNumber": 1211,
+      "address": "yeli phata,hingoli"
     },
     {
       "id": 2,
       "name": "trimurti school",
-      "registrationNumber":14111,
-      "address":"hadapsar,pune"
+      "registrationNumber": 14111,
+      "address": "hadapsar,pune"
     },
     {
       "id": 3,
       "name": "abm english school",
-      "registrationNumber":2341,
-      "address":"bangar nagar,hingoli"
+      "registrationNumber": 2341,
+      "address": "bangar nagar,hingoli"
     },
     {
       "id": 4,
       "name": "khakibaba english school",
-      "registrationNumber":13241,
-      "address":"ganpati chouk,hingoli"
+      "registrationNumber": 13241,
+      "address": "ganpati chouk,hingoli"
     },
     {
       "id": 5,
       "name": "primary school",
-      "registrationNumber":124431,
-      "address":"bhavani road ,yedud"
+      "registrationNumber": 124431,
+      "address": "bhavani road ,yedud"
     }
   ]
 }
