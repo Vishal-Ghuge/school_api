@@ -15,35 +15,35 @@
     {
       "id": 1,
       "name": "ch.shivaji education society",
-      "mobile":7776851717,
+      "mobile": 7776851717,
       "registrationNumber": 12151,
       "address": "azam colony,hingoli"
     },
     {
       "id": 2,
       "name": "Adarsh education society",
-      "mobile":777685222,
+      "mobile": 777685222,
       "registrationNumber": 14123,
       "address": "railway station road,hingoli"
     },
     {
       "id": 3,
       "name": "Deccan education society",
-      "mobile":7776854444,
+      "mobile": 7776854444,
       "registrationNumber": 23642,
       "address": "shivajinagar ,pune"
     },
     {
       "id": 4,
       "name": "Modern eduction society",
-      "mobile":7776855555,
+      "mobile": 7776855555,
       "registrationNumber": 13241,
       "address": "modern colony ,pune"
     },
     {
       "id": 5,
       "name": "oxford business eduction society",
-      "mobile":7776856666,
+      "mobile": 7776856666,
       "registrationNumber": 12441,
       "address": "son francisco,unitade state"
     }
