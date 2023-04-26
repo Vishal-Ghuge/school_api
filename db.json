@@ -11,6 +11,7 @@
       "password": "k@dec2018"
     }
   ],
+  
   "society": [
     {
       "id": 1,
@@ -46,35 +47,35 @@
   "school": [
     {
       "id": 1,
-      "societyId":1,
+      "societyId": 1,
       "name": "venkateshwara public school",
       "registrationNumber": 1211,
       "address": "yeli phata,hingoli"
     },
     {
       "id": 2,
-      "societyId":2,
+      "societyId": 2,
       "name": "trimurti school",
       "registrationNumber": 14111,
       "address": "hadapsar,pune"
     },
     {
       "id": 3,
-      "societyId":3,
+      "societyId": 3,
       "name": "abm english school",
       "registrationNumber": 2341,
       "address": "bangar nagar,hingoli"
     },
     {
       "id": 4,
-      "societyId":4,
+      "societyId": 4,
       "name": "khakibaba english school",
       "registrationNumber": 13241,
       "address": "ganpati chouk,hingoli"
     },
     {
       "id": 5,
-      "societyId":5,
+      "societyId": 5,
       "name": "primary school",
       "registrationNumber": 124431,
       "address": "bhavani road ,yedud"
